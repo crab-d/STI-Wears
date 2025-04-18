@@ -20,8 +20,8 @@
 ### STAFF
 - Search and view order id by entering order ID
 - Add new item
-- Update stocks for each sized
-- Add new sizes
+- Update stocks for each size
+- Add new size
 - Categorized Orders
 - Low stock items alert
 - Ban student
